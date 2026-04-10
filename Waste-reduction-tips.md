@@ -19,9 +19,8 @@ Also, reduce the amount of overhangs by using more slanted faces. Keep in mind t
 Another trick is to model your own break-away supports.
 
 Here is an interesting video about optimizing your designs. 
-
-<iframe width="1201" height="675" src="https://www.youtube.com/embed/80-YoGyvQyQ?list=WL" title="Beyond Trinkets: Why the 3D Printer is Now a Production Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-(Here is the link if the video does not load: https://www.youtube.com/embed/80-YoGyvQyQ?list=WL)
+[![Beyond Trinkets: Why the 3D Printer is Now a Production Tool](http://img.youtube.com/vi/80-YoGyvQyQ/0.jpg)](http://www.youtube.com/watch?v=80-YoGyvQyQ)  
+(Here is the link if the video does not redirect you: https://www.youtube.com/watch?v=80-YoGyvQyQ)
 
 ## Process Level
 ### Generative Design
