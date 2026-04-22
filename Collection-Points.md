@@ -17,12 +17,12 @@ Next up is the date. Based on the filament waste data for a frequent user, the b
 
 ## Advertisement
 
-The advertisement is needed to let people know when, what and where you will be collecting. It is important that people know of the event in advance. In this repo you'll find some example advertisements that can be used for [displays]() TODO and [flyers]() TODO.
+The advertisement is needed to let people know when, what and where you will be collecting. It is important that people know of the event in advance. In this repo you'll find a example advertisement that can be used for [displays](/Advertisement/Display-advertisement-example.png) and a [QR-code](/Advertisement/QR-code-to-tips.png) linking to [this](/Waste-reduction-tips.md) document.
 
 
 ## Short ruleset of what IS an ISN'T being collected
 
-If you partner up with a recycling facility, you should always check their filament sorting guidelines about what they recycle and what they do not recycle
+If you partner up with a recycling facility, you should always check their filament sorting guidelines about what they recycle and what they do not recycle. We've provided a printable [example ruleset](/Advertisement/Sorting-rules-example.pdf) to set at the collection point.
 
 ## Labeled collection boxes
 

@@ -3,6 +3,8 @@
 This repository will provide some guidance on how to set up your own 3D printing waste collection points.
 Our main focus will be on waste produced by FDM 3D printing (although you could potentially expand it to other types of 3D printing).
 
+This was created for an assignment from KU Leuven around sustainability.
+
 
 ## Table of Contents
 1. [What is this waste?](#what-is-this-waste)
@@ -22,6 +24,7 @@ Our main focus will be on waste produced by FDM 3D printing (although you could 
 3. [What are the current barriers?](#what-are-the-current-barriers)
 4. [Who creates this waste?](#who-creates-this-waste)
 5. [Sources](#sources)
+6. [Authors And Contributers](#authors-and-contributers)
 
 The text below gives more information on the waste problem itself. If you just want to know how a collection point could be set up, go [here](Collection-Points.md#collection-points).
 
@@ -201,3 +204,10 @@ The people who produce this waste are mainly:
 - Sandhu, K. (Ed.). (2022). Sustainability for 3D Printing (1st ed. 2022.). Springer International Publishing. https://doi.org/10.1007/978-3-030-75235-4
 - Waste Framework Directive. (n.d.). Environment. Retrieved March 24, 2026, from https://environment.ec.europa.eu/topics/waste-and-recycling/waste-framework-directive_en
 - Wikipedia, the free encyclopedia. (z.d.-b). https://www.wikipedia.org/
+
+
+## Authors And Contributers
+
+- Jelle Delbrassine
+- Noah Casier
+- Robin De Vos

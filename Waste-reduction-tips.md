@@ -44,3 +44,8 @@ You could use multi material prints (MMU) to combine material properties (like s
 
 ### Assembly and part integration
 Sometimes you can reduce the number of parts by combining them. This could reduce the amount of supports needed. A downside is that you reduce reparability and if your print fails, the whole part is lost.
+
+
+## Other tips
+
+The following tip is more applicable for MMU printing. Some slicers have the ability to reshape your purge tower into another 3D model. If you have a part that does not have to be any specific color or material, you could assign it as your purge tower. It is recommended that this part does not serve a function which involves a lot of stress (because of the diverse mixtures of random materials). A nice example could be a mini-figure that you might paint later. In this way, you've repurposed your waste.
