@@ -40,4 +40,21 @@ We recommend that you test each sorted filament type seperately in such baths. I
 
 Obviously, you'll need a way to recycle the waste after collecting. You can contact a local 3D printing waste recycling facility or you can make your own if you have the right machine.
 
-If you have neither of those, you could make something out of this waste to give away. Something that raises awareness among the people. In this repo we have provided you with some [keychain molds]() TODO which can be used to melt the plastic waste in.
+If you have neither of those, you could make something out of this waste to give away. Something that raises awareness among the people. We'll share some mold ideas which can be used to melt the plastic waste in:
+
+- [Poker Chip Mold from Poop-One mold for all values](https://makerworld.com/en/models/1320673-poker-chip-mold-from-poop-one-mold-for-all-values#profileId-1356817)
+- [Recycled Poop Heart Mold](https://makerworld.com/en/models/2442363-recycled-poop-heart-mold#profileId-2680343)
+- [Gonggi Poop Mold - fast production from waste](https://makerworld.com/en/models/1217911-gonggi-poop-mold-fast-production-from-waste#profileId-1234146)
+
+## Our findings
+
+We've organized the collection point, but had some backlash. 
+We tried to contact 2 filament recycling facilities nearby to maybe work together with, but both of them did not respond.  
+
+What we did next was creating keychain molds so that we could give away keychains. When we tested the keychain making process ourselves, we realized that since we have a very limited time to set up and organize this collection point (45 min), we would not be able to create a lot of keychains in time.
+
+We shifted our focus of the collection point more to raising awareness and how you could recycle and reduce your waste yourself. This has also because there was no one with their own waste at the collection point, but rather some interessted people asking for info. (And, as previously stated, very little time.)
+
+The last problem we've encountered was advertising on the campus. We've sent our poster to be displayed on the screens across our campus but realized that the screens were shut down most of the time during our advertising period. This lead to less people knowing about our collection point.
+
+It is a bit sad that the collection point did not quite go as planned, but we hope that these mistakes could be educative for other people attempting this.

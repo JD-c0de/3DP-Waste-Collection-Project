@@ -1,5 +1,7 @@
 # Waste Reduction Tips
 
+**Note:** This repo does not only contain this document, but has also tips on organizing your own [waste collection point](/Collection-Points.md) and info on [what the 3D printing waste problem is](/README.md).
+
 These tips are based on a paper found in [this book](https://doi.org/10.1007/978-3-030-75235-4). Source: (Sandhu et al., 2022)
 
 An important concept is that of **Design for 3D Printing/Additive Manufacturing** (Df3DP/DfAM).
